@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "4.14.0",
+    "nationbuilder": "^1.0.8"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
